@@ -110,7 +110,7 @@
 			{/if}
 		</nav>
 	</div>
-	<main class="sm:px-3" style="padding-top:104px">
+	<main class="md:px-3 flex flex-col" style="padding-top:104px">
 		<PageTransition refresh={key}>
 			<slot />
 		</PageTransition>

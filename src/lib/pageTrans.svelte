@@ -5,7 +5,12 @@
 </script>
 
 {#key refresh}
-	<div {style} in:fly={{ x: -5, duration: 500, delay: 500 }} out:fly={{ x: 5, duration: 500 }}>
+	<div
+		class="flex-grow flex flex-col"
+		{style}
+		in:fly={{ x: -5, duration: 500, delay: 500 }}
+		out:fly={{ x: 5, duration: 500 }}
+	>
 		<slot />
 	</div>
 {/key}
