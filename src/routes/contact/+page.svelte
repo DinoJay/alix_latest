@@ -29,33 +29,27 @@
 					meubles et objets en bois. Ils utilisent cette technique et sont produits en mini série.
 					Des formes plus sobres mais une reconnexion avec l’univers du dessin.
 				</p>
-				<p class="">
+				<p class="mb-3">
 					<span>
 						Les nouveautés sont publiées au fur et à mesure avec leur prix TVA incluse (mais ne
 						comprend pas les frais de transport). Je suis sur Bruxelles si vous êtes intéressé et
 						que vous voulez venir voir le meuble en question. Pour suivre l’arrivée des nouveautés
-						et l’avancement du projet vous pouvez me suivre sur Instagram
+						et l’avancement du projet vous pouvez me suivre sur Instagram:
+					</span>
+					<span>
+						<a class="  font-bold" href="https://www.instagram.com/atelierpopi"> AtelierPOPI </a>
 					</span>
 				</p>
 				<p class="mb-3">
 					Avec l'arrivée sous peu d'un bébé, je ne prend plus de nouvelles commandes jusqu'en
 					octobre. Je continuerai à produire des petits mobiliers ou objets. Je mettrai donc
 					régulièrement le site à jour avec les disponibilités. Et puis j'ai quelques meubles en
-					attente sous la main dont je vais ( j'espère ) avoir le temps de réaliser d'ici là. Vous
-					pouvez suivre tout ça aussi sur le compte Instagram : AtelierPOPI
+					attente sous la main dont je vais ( j'espère ) avoir le temps de réaliser d'ici là.
 				</p>
-				<div class="inline-block">
-					<span>
-						<a class=" flex items-end font-bold" href="https://www.instagram.com/atelierpopi">
-							__popi__
-						</a>
-					</span>
-				</div>
-				.
 			</div>
 		</div>
 		<div class="md:mt-12">
-			<a class="" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
+			<a class="font-bold" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
 		</div>
 	</div>
 	<div style="width:300px" class="flex flex-col mt-12 mx-auto xl:mt-0">
