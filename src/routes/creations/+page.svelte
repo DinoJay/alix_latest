@@ -24,7 +24,7 @@
 </script>
 
 <div class="flex-grow relative {grid && 'flex flex-wrap grid-cont'}">
-	<div class=" absolute right-0 top-0 flex">
+	<div class=" absolute hidden right-0 top-0 flex">
 		<button class="m-auto" on:click={gridClick}
 			><img class="" alt="grid" width="40" height="40" src="/gridicon.png" /></button
 		>
