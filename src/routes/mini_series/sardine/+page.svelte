@@ -15,15 +15,18 @@
 	];
 </script>
 
-<div class=" p-3  md:p-12 items-center md:items-start">
+<div class=" p-3 md:p-12 items-center md:items-start">
 	<div class="">
 		<h1 class="text-3xl mb-1">Sardines aux tomates</h1>
 		<h2 class="mb-2">Tabouret ou table d’appoint</h2>
-		<div class="text-justify text-sm text-gray-600 ">
+		<div class="text-justify text-sm text-gray-600">
 			<p class="">Gravure des formes à la CNC, résine coulée en creux</p>
-			<p class="">Multiplex bouleau - epoxy - pieds en acier laqué jaune</p>
+			<p class="">Multiplex - epoxy - pieds en acier laqué jaune</p>
 			<p class="">Choix de la hauteur des pieds</p>
-			<p>105€ - disponible sur commande</p>
+			<p>
+				105€ - Disponibilités ci-dessous. L'essence du bois et la mise à jour dépendent de la
+				récupération de chutes sur d'autres projets.
+			</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">
@@ -33,7 +36,7 @@
 			{/each}
 		</div>
 		<img
-			class="mini-series-table-mobile md:mini-series-table-desktop order-0 md:order-last mb-3 md:mb-0 max-w-series "
+			class="mini-series-table-mobile md:mini-series-table-desktop order-0 md:order-last mb-3 md:mb-0 max-w-series"
 			src="/mesure.webp"
 			alt="mesure"
 		/>

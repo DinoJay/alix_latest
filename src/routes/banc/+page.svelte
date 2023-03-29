@@ -22,9 +22,6 @@
 		<img class="mb-40" width="400" src="banc-detail.png" alt="banc detail" />
 		<img class="mb-32 mt-32" src="banc-situation.webp" alt="banc situation" />
 		<img class="mb-12" src="banc-situation2.webp" alt="banc situation 2" />
-		<!-- <div class="w-full" style="height:500px">
-			<GltfModel />
-		</div> -->
 
 		<div class="flex w-full justify-center items-center">
 			<a class="/table-2" href="/table-bleu">

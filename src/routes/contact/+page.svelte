@@ -7,11 +7,11 @@
 	};
 </script>
 
-<div class="p-6 md:flex ">
+<div class="p-6 md:flex">
 	<div>
 		<h1 class="mb-6">Création de meubles uniques</h1>
 		<div class="flex-col sm:flex-row flex flex-wrap">
-			<div class="text-justify max-w-prose ">
+			<div class="text-justify max-w-prose">
 				<p class="mb-3">
 					Après un master en Dessin (La Cambre) et une formation en Ébénisterie et Menuiserie (Efp)
 					à Bruxelles, j'ai commencé en novembre 2021 mes propres <span class="font-bold"
@@ -36,21 +36,29 @@
 						que vous voulez venir voir le meuble en question. Pour suivre l’arrivée des nouveautés
 						et l’avancement du projet vous pouvez me suivre sur Instagram
 					</span>
-					<span class="inline-block ">
-						<span>
-							<a class=" flex items-end font-bold" href="https://www.instagram.com/__popi__/">
-								__popi__
-							</a>
-						</span>
-					</span>.
 				</p>
+				<p class="mb-3">
+					Avec l'arrivée sous peu d'un bébé, je ne prend plus de nouvelles commandes jusqu'en
+					octobre. Je continuerai à produire des petits mobiliers ou objets. Je mettrai donc
+					régulièrement le site à jour avec les disponibilités. Et puis j'ai quelques meubles en
+					attente sous la main dont je vais ( j'espère ) avoir le temps de réaliser d'ici là. Vous
+					pouvez suivre tout ça aussi sur le compte Instagram : AtelierPOPI
+				</p>
+				<div class="inline-block">
+					<span>
+						<a class=" flex items-end font-bold" href="https://www.instagram.com/atelierpopi">
+							__popi__
+						</a>
+					</span>
+				</div>
+				.
 			</div>
 		</div>
 		<div class="md:mt-12">
 			<a class="" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
 		</div>
 	</div>
-	<div style="width:300px" class="flex flex-col  mt-12 mx-auto  xl:mt-0 ">
+	<div style="width:300px" class="flex flex-col mt-12 mx-auto xl:mt-0">
 		<img src="alix.webp" class="" />
 		<div class="text-sm">©XavierWillot</div>
 	</div>
