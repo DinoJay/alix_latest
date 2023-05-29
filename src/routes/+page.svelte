@@ -8,19 +8,20 @@
 </script>
 
 <div class="md:flex md:p-0 p-3 md:justify-center">
-	<a class="creationsk flex flex-col mb-3 sm:mb-0 " href="/creations">
+	<a class="creationsk flex flex-col mb-3 sm:mb-0" href="/creations">
 		<div class="flex items-center justify-center flex-grow">
-			<div class="creations-text absolute m-auto  text-white font-sans uppercase">CRÉATIONS</div>
+			<div class="creations-text text-center absolute m-auto text-white font-sans uppercase">
+				CRÉATIONS <br />UNIQUES
+			</div>
 			<img class="w-full h-full" src="creations.webp" alt="creations" />
 		</div>
 	</a>
-	<a class="sm:ml-3 collab flex flex-col  mb-3 sm:mb-0" href="/mini_series">
-		<div class="flex items-center justify-center  flex-grow relative">
-			<img class="h-full" src="mini_series.webp" alt="mini series" />
-			<div
-				class="collab-text absolute m-auto font-sans uppercase text-center text-white max-width-half sm:max-w-none"
-			>
-				Mini-Séries
+	<a class="sm:ml-3 collab flex flex-col mb-3 sm:mb-0" href="/mini_series">
+		<div class="flex items-center justify-center flex-grow relative">
+			<img class="h-full" src="decorsardine.webp" alt="mini series" />
+			<div class="collab-text absolute m-auto font-sans uppercase text-center text-white">
+				<span class="sm:hidden">Prod. <br />Multiples</span>
+				<span class="hidden sm:block">Productions Multiples</span>
 			</div>
 		</div>
 	</a>

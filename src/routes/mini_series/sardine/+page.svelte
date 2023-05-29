@@ -13,19 +13,26 @@
 		['/sardineface.webp', 'sardine face'],
 		['/sardine-detail.webp', 'sardine detail']
 	];
+
+	const imgs2 = [
+		['/sardine1.webp', 'Sardine 1'],
+		['/sardine2.webp', 'Sardine 2'],
+		['/sardines_5.webp', 'Sardine 5: Multiplex chêne']
+	];
 </script>
 
 <div class=" p-3 md:p-12 items-center md:items-start">
-	<div class="">
+	<div class="w-80 text-justify">
 		<h1 class="text-3xl mb-1">Sardines aux tomates</h1>
 		<h2 class="mb-2">Tabouret ou table d’appoint</h2>
-		<div class="text-justify text-sm text-gray-600">
+		<div class=" text-sm text-gray-600">
 			<p class="">Gravure des formes à la CNC, résine coulée en creux</p>
 			<p class="">Multiplex - epoxy - pieds en acier laqué jaune</p>
 			<p class="">Choix de la hauteur des pieds</p>
+			<p>105€ - Disponibilités ci-dessous.</p>
 			<p>
-				105€ - Disponibilités ci-dessous. L'essence du bois et la mise à jour dépendent de la
-				récupération de chutes sur d'autres projets.
+				L'essence du bois et la mise à jour dépendent de la récupération de chutes sur d'autres
+				projets.
 			</p>
 		</div>
 	</div>
@@ -40,6 +47,26 @@
 			src="/mesure.webp"
 			alt="mesure"
 		/>
+	</div>
+
+	<h2 class=" mt-12">Disponibilités du moment:</h2>
+	<div class=" text-gray-600 flex mt-3">
+		<div class=" ">
+			{#each imgs2 as s, i}
+				<LightBox srcs={imgs2} start={i} style="width:10rem" className="h-40  mb-3 object-cover" />
+			{/each}
+		</div>
+		<div class="ml-3">
+			<div class="h-40 flex items-center justify-center text-sm text-center mb-3">
+				Sardine 1: <br />Multiplex bouleau
+			</div>
+			<div class="h-40 flex items-center justify-center text-sm text-center">
+				Sardine 2: <br /> Multiplex bouleau
+			</div>
+			<div class="h-40 flex items-center justify-center text-sm text-center">
+				Sardine 5: <br /> Multiplex chêne
+			</div>
+		</div>
 	</div>
 </div>
 

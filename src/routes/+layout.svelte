@@ -111,9 +111,11 @@
 		</nav>
 	</div>
 	<main class="md:px-3 flex flex-col" style="padding-top:104px">
-		<PageTransition refresh={key}>
-			<slot />
-		</PageTransition>
+		<div class="relative">
+			<PageTransition refresh={key}>
+				<slot />
+			</PageTransition>
+		</div>
 	</main>
 </div>
 
