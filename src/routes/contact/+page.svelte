@@ -9,7 +9,7 @@
 
 <div class="p-6 md:flex">
 	<div>
-		<h1 class="mb-6">Création de meubles uniques</h1>
+		<h1 class="mb-6">Création de meubles</h1>
 		<div class="flex-col sm:flex-row flex flex-wrap">
 			<div class="text-justify max-w-prose">
 				<p class="mb-3">
@@ -40,7 +40,7 @@
 						<a class="  font-bold" href="https://www.instagram.com/atelierpopi"> AtelierPOPI </a>
 					</span>
 				</p>
-				<p class="mb-3">
+				<p class="mb-3 font-bold">
 					Avec l'arrivée sous peu d'un bébé, je ne prend plus de nouvelles commandes jusqu'en
 					octobre. Je continuerai à produire des petits mobiliers ou objets. Je mettrai donc
 					régulièrement le site à jour avec les disponibilités. Et puis j'ai quelques meubles en
