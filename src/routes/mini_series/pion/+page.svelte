@@ -20,10 +20,10 @@
 <div class=" p-3 md:p-12 items-center md:items-start">
 	<div class="w-80 text-justify">
 		<h1 class="text-3xl mb-1">Pions</h1>
-		<h2 class="mb-2">Ensemble de pions pour jeux d'echec</h2>
+		<h2 class="mb-2">Ensemble de pions pour jeu d'echec</h2>
 		<div class=" text-sm text-gray-600">
-			<p class="">Decoupe des formes á la laser dans du plexi transparent</p>
-			<p class="">hetre - plexi</p>
+			<p class="">Decoupe des formes à la laser dans du plexi transparent</p>
+			<p class="">hêtre - plexi</p>
 			<p>65€</p>
 		</div>
 	</div>
