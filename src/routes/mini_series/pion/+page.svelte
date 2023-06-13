@@ -22,9 +22,9 @@
 		<h1 class="text-3xl mb-1">Pions</h1>
 		<h2 class="mb-2">Ensemble de pions pour jeu d'echec</h2>
 		<div class=" text-sm text-gray-600">
-			<p class="">Decoupe des formes à la laser dans du plexi transparent</p>
+			<p class="">Découpe des formes à la laser dans du plexi transparent</p>
 			<p class="">hêtre - plexi</p>
-			<p>65€</p>
+			<p>60€ - sur commande</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">
