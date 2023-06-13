@@ -2,7 +2,7 @@
 	import { seo } from '$lib/store.js';
 
 	$seo = {
-		title: 'Mini-Series',
+		title: 'Productions-multiples',
 		description:
 			'Artiste Popi Creations Meuble unique Design Furniture mini-series multidisciplinaire'
 	};
@@ -10,7 +10,7 @@
 
 <div class="md:p-12">
 	<div class="p-3 max-w-xl">
-		<h1 class="text-3xl mb-3">Mini-séries...</h1>
+		<h1 class="text-3xl mb-3">Productions-multiples</h1>
 
 		<p class="text-justify">
 			Ici sont proposés des meubles ou objets produits avec l’intervention d’une machine numérique à

@@ -35,8 +35,8 @@
 		</div>
 		<img
 			class="mini-series-table-mobile md:mini-series-table-desktop order-0 md:order-last mb-3 md:mb-0 max-w-series"
-			src="/esure.webp"
-			alt="mesure"
+			src="/gabarie.webp"
+			alt="gabarie"
 		/>
 	</div>
 </div>
