@@ -31,10 +31,6 @@
 			<p class="">Multiplex - epoxy - pieds en acier laqué bleu</p>
 			<p class="">Choix de la hauteur des pieds</p>
 			<p>105€ - Disponibilités ci-dessous.</p>
-			<p>
-				L'essence du bois et la mise à jour dépendent de la récupération de chutes sur d'autres
-				projets.
-			</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">

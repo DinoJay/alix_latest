@@ -30,10 +30,6 @@
 			<p class="">Multiplex - epoxy - pieds en acier laqué jaune</p>
 			<p class="">Choix de la hauteur des pieds</p>
 			<p>105€ - Disponibilités ci-dessous.</p>
-			<p>
-				L'essence du bois et la mise à jour dépendent de la récupération de chutes sur d'autres
-				projets.
-			</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">
@@ -58,13 +54,13 @@
 		</div>
 		<div class="ml-3">
 			<div class="h-40 flex items-center justify-center text-sm text-center mb-3">
-				Sardine 1: <br />Multiplex bouleau
+				<s>Sardine 1: <br />Multiplex bouleau</s>
 			</div>
 			<div class="h-40 flex items-center justify-center text-sm text-center">
-				Sardine 2: <br /> Multiplex bouleau
+				<s>Sardine 2: <br /> Multiplex bouleau</s>
 			</div>
 			<div class="h-40 flex items-center justify-center text-sm text-center">
-				Sardine 5: <br /> Multiplex chêne
+				<s>Sardine 5: <br /> Multiplex chêne</s>
 			</div>
 		</div>
 	</div>

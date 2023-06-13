@@ -9,7 +9,7 @@
 </script>
 
 <div class="md:p-12">
-	<div class="p-3  max-w-xl ">
+	<div class="p-3 max-w-xl">
 		<h1 class="text-3xl mb-3">Mini-séries...</h1>
 
 		<p class="text-justify">
@@ -19,10 +19,10 @@
 	</div>
 
 	<div class="">
-		<div class="md:flex ">
-			<div class="md:pr-24 ">
-				<a class="md:max-width-half " href="/mini_series/rouget">
-					<img src="rougetcouv.webp" alt="rouget" />
+		<div class="md:flex">
+			<div class="md:pr-24">
+				<a href="/mini_series/pion" class="md:max-width-half">
+					<img class="p-12" src="pionbleu.jpeg" alt="table" />
 				</a>
 			</div>
 			<a href="/mini_series/sardine" class="md:max-width-half">
@@ -30,13 +30,13 @@
 			</a>
 		</div>
 		<div class="md:flex">
-			<div class="md:pr-24 ">
-				<a class="md:max-width-half " href="/mini_series/plateau">
+			<div class="md:pr-24">
+				<a class="md:max-width-half" href="/mini_series/plateau">
 					<img src="plateau.png" alt="plateau" />
 				</a>
 			</div>
-			<a href="/mini_series/table" class="md:max-width-half">
-				<img src="table.png" alt="table" />
+			<a class="md:max-width-half" href="/mini_series/rouget">
+				<img src="rougetcouv.webp" alt="rouget" />
 			</a>
 		</div>
 	</div>

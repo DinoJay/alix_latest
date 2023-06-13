@@ -39,17 +39,18 @@
 	<div
 		transition:blur
 		use:portal={'modals'}
-		class="fixed modal cont w-full h-full flex "
+		class="fixed modal cont w-full h-full flex z-20"
 		on:click={close}
+		on:keydown={close}
 	>
 		<div class="m-auto">
 			{#key srcs[counter][0]}
 				<img
 					src={srcs[counter][0]}
-					width={600}
+					class="object-contain"
 					height={600}
 					alt={srcs[counter][1]}
-					style="max-height:700px"
+					style="max-height:600px"
 				/>
 			{/key}
 			<div class="flex items-center justify-center mt-3">
