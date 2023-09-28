@@ -24,7 +24,8 @@
 		<div class=" text-sm text-gray-600">
 			<p class="">Découpe des formes à la laser dans du plexi transparent</p>
 			<p class="">hêtre - plexi</p>
-			<p>60€ - sur commande</p>
+			<p>60€ - Disponibilités ci-dessous (ou sur commande).</p>
+			<p>Possibilités d'envoi</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">

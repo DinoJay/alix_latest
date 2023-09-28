@@ -30,7 +30,8 @@
 			<p class="">Gravure des formes à la CNC, résine coulée en creux</p>
 			<p class="">Multiplex - epoxy - pieds en acier laqué bleu</p>
 			<p class="">Choix de la hauteur des pieds</p>
-			<p>105€ - Disponibilités ci-dessous.</p>
+			<p>105€ - Disponibilités ci-dessous (ou sur commande).</p>
+			<p>Possibilités d'envoi</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">
@@ -54,7 +55,7 @@
 		</div>
 		<div class="ml-3">
 			<div class="h-40 flex items-center justify-center text-sm text-center mb-3">
-				Rouget 3: <br />Multiplex bouleau
+				<s>Rouget 3: <br />Multiplex bouleau</s>
 			</div>
 			<div class="h-40 flex items-center justify-center text-sm text-center mb-3">
 				Rouget 4: <br /> Multiplex pin pologne <br /> 85€ <br /> défaut: voir <br /> photo ci-après
@@ -63,7 +64,7 @@
 				Le rouge est <br /> légèrement infiltré <br /> dans la fibre du bois
 			</div>
 			<div class="h-40 flex items-center justify-center text-sm text-center mb-3">
-				<div>Rouget 6: <br />Multiplex chêne</div>
+				<div><s>Rouget 6: <br />Multiplex chêne</s></div>
 			</div>
 			<div class="h-40 flex items-center justify-center text-sm text-center">
 				<div>Rouget 7:<br />Multiplex pin de Pologne</div>

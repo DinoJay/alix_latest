@@ -29,7 +29,8 @@
 			<p class="">Gravure des formes à la CNC, résine coulée en creux</p>
 			<p class="">Multiplex - epoxy - pieds en acier laqué jaune</p>
 			<p class="">Choix de la hauteur des pieds</p>
-			<p>105€ - Disponibilités ci-dessous.</p>
+			<p>105€ - Disponibilités ci-dessous (ou sur commande).</p>
+			<p>Possibilités d'envoi</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">

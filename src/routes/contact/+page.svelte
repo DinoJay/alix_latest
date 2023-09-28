@@ -40,12 +40,6 @@
 						<a class="  font-bold" href="https://www.instagram.com/atelierpopi"> AtelierPOPI </a>
 					</span>
 				</p>
-				<p class="mb-3 font-bold">
-					Avec l'arrivée sous peu d'un bébé, je ne prend plus de nouvelles commandes jusqu'en
-					octobre. Je continuerai à produire des petits mobiliers ou objets. Je mettrai donc
-					régulièrement le site à jour avec les disponibilités. Et puis j'ai quelques meubles en
-					attente sous la main dont je vais ( j'espère ) avoir le temps de réaliser d'ici là.
-				</p>
 			</div>
 		</div>
 		<div class="md:mt-12">
