@@ -16,6 +16,7 @@
 	};
 
 	const imgs = [
+		{ src: 'meublecd.png', href: '/meublecd', bg: '#332fd8' },
 		{ src: 'tic.webp', href: '/tic', bg: 'rgb(224, 118, 118)' },
 		{ src: 'tablesunset.webp', href: '/sunset', bg: '#f9d413' },
 		{ src: 'table-2.webp', href: '/table-2', bg: 'dodgerblue' },

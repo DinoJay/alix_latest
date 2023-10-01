@@ -45,7 +45,11 @@
 					<img src="table.png" alt="plateau" />
 				</a>
 			</div>
-			<div />
+			<div class="md:w-1/2 mt-12">
+				<a class="md:max-width-half" href="/mini_series/villes">
+					<img src="ville.webp" alt="villes" />
+				</a>
+			</div>
 		</div>
 	</div>
 </div>
