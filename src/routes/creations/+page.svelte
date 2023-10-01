@@ -15,8 +15,9 @@
 		grid = !grid;
 	};
 
-	const imgs = [
-		{ src: 'meublecd.png', href: '/meublecd', bg: '#332fd8' },
+	$: imgs = [
+		{ src: 'meublecd.png', href: '/meublecd', bg: '#332fd8', cls: !grid ? 'p-24' : 'p-6' },
+
 		{ src: 'tic.webp', href: '/tic', bg: 'rgb(224, 118, 118)' },
 		{ src: 'tablesunset.webp', href: '/sunset', bg: '#f9d413' },
 		{ src: 'table-2.webp', href: '/table-2', bg: 'dodgerblue' },
@@ -31,7 +32,7 @@
 
 <div class=" absolute right-0 top-0 flex z-10" style:height="40px">
 	<button class="" on:click={gridClick}
-		><img class="mt-2 mr-3 sm:mr-0" alt="grid" width="40" height="40" src="/gridicon.png" /></button
+		><img class=" mr-3 sm:mr-0" alt="grid" width="40" height="40" src="/gridicon.png" /></button
 	>
 </div>
 <div
@@ -51,7 +52,7 @@
 			style="background:{d.bg}"
 		>
 			<a href={d.href}>
-				<img class:md:max-w-prose={!grid} src={d.src} alt={d.href} />
+				<img class={d.cls ? d.cls : ''} class:md:max-w-prose={!grid} src={d.src} alt={d.href} />
 			</a>
 		</div>
 	{/each}

@@ -23,8 +23,8 @@
 		<img class="mb-32 mt-32" style="" src="ticdetail.webp" alt="ticdetail" />
 		<img class="mt-32 mb-12 situation" src="ticdetail2.webp" alt="ticdetail2" />
 		<div class="flex w-full justify-center items-center mb-3">
-			<a class="/creations" href="/creations">
-				<img height="40" width="40" src="home.webp" alt="home" />
+			<a class="/creations" href="/meublecd">
+				<img height="40" width="40" src="arrow-left.webp" alt="arrow-left" />
 			</a>
 			<a class="ml-auto" href="/sunset">
 				<img height="40" width="40" src="arrow-right.webp" alt="arrow right" />

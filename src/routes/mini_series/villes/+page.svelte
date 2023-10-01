@@ -23,8 +23,8 @@
 		<h1 class="text-3xl mb-1">Villes</h1>
 		<h2 class="mb-2">Table Basse</h2>
 		<div class=" text-sm text-gray-600">
+			<p>Gravure des formes à la CNC, résine coulée à plat</p>
 			<p class="">Multiplex - epoxy - pieds en acier laqué jaune ou rouge</p>
-			<p class="">Multiplex - epoxy - pieds en acier laqué jaune</p>
 			<p>570€ - Disponible sur commande.</p>
 		</div>
 	</div>

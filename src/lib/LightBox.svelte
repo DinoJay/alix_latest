@@ -33,7 +33,14 @@
 	const next = counter + 1 < srcs.length ? srcs[counter + 1][0] : null;
 </script>
 
-<img src={srcs[start][0]} {alt} class={className} {style} on:click={() => (open = true)} />
+<img
+	src={srcs[start][0]}
+	{alt}
+	class={className}
+	class:cursor-pointer={true}
+	{style}
+	on:click={() => (open = true)}
+/>
 
 {#if open}
 	<div
