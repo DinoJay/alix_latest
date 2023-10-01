@@ -7,7 +7,6 @@
 		description: 'Artiste Popi Creations Meuble unique Design Furniture multidisciplinaire'
 	};
 	const imgs = [
-		['/ville.webp', 'ville'],
 		['/ville1.webp', 'ville'],
 		['/ville2.webp', 'ville'],
 		['/ville3.webp', 'ville'],
