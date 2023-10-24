@@ -31,22 +31,22 @@
 		</div>
 		<div class="md:flex">
 			<div class="md:pr-24">
-				<a href="/mini_series/pion" class="md:max-width-half">
+				<a href="/mini_series/sardine" class="md:max-width-half">
 					<img class="" src="sardinecouv.webp" alt="table" />
 				</a>
 			</div>
 			<div class="md:pr-24">
-				<a class="md:max-width-half" href="/mini_series/plateau">
+				<a class="md:max-width-half" href="/mini_series/rouget">
 					<img src="rougetcouv.webp" alt="rougetcouv" />
 				</a>
 			</div>
 		</div>
 		<div class="md:flex">
-			<a class="md:max-width-half" href="/mini_series/rouget">
+			<a class="md:max-width-half" href="/mini_series/table">
 				<img src="table.webp" alt="rouget" />
 			</a>
 			<div class="md:w-1/2">
-				<a class="md:max-width-half" href="/mini_series/table">
+				<a class="md:max-width-half" href="/mini_series/plateau">
 					<img src="plateau.png" alt="plateau" />
 				</a>
 			</div>
