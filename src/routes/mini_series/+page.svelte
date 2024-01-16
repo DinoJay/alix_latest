@@ -4,7 +4,7 @@
 	$seo = {
 		title: 'Productions-multiples',
 		description:
-			'Artiste Popi Creations Meuble unique Design Furniture mini-series multidisciplinaire'
+			'Artiste Popi Creations Meuble Unique Design Furniture mini-series multidisciplinaire'
 	};
 </script>
 
