@@ -22,7 +22,7 @@
 		<div class="text-justify text-sm text-gray-600">
 			<p class="">Gravure des formes à la CNC, marqueterie de laiton</p>
 			<p class="">Multiplex bouleau - hêtre - epoxy - laiton</p>
-			<p>500€/table - dispo: 3</p>
+			<p>500€/table - dispo: 2</p>
 		</div>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12">
