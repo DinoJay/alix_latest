@@ -17,11 +17,11 @@
 			<p>110 x 68 x 37</p>
 			<p class="mt-6 text-gray-600">400€</p>
 		</div>
-		<img class="mt-32 situation" src="ticface.webp" alt="ticface" />
-		<img class="mt-32 mb-12 situation" src="ticdiagonale.webp" alt="ticdiagonale" />
+		<img class="mt-20 situation" src="ticface.webp" alt="ticface" />
+		<img class="mt-20 mb-12 situation" src="ticdiagonale.webp" alt="ticdiagonale" />
 		<img class="" src="ticcote.webp" alt="ticcote-face" />
-		<img class="mb-32 mt-32" style="" src="ticdetail.webp" alt="ticdetail" />
-		<img class="mt-32 mb-12 situation" src="ticdetail2.webp" alt="ticdetail2" />
+		<img class="mb-20 mt-20" style="" src="ticdetail.webp" alt="ticdetail" />
+		<img class="mt-20 mb-12 situation" src="ticdetail2.webp" alt="ticdetail2" />
 		<div class="flex w-full justify-center items-center mb-3">
 			<a class="/creations" href="/meublecd">
 				<img height="40" width="40" src="arrow-left.webp" alt="arrow-left" />

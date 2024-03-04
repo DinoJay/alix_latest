@@ -9,7 +9,7 @@
 	};
 </script>
 
-<div class="flex flex-col ">
+<div class="flex flex-col">
 	<div class="sm:min-w-prose m-auto max-w-prose flex flex-col items-center p-3">
 		<h1 class="mx-auto text-3xl uppercase text-center mb-3">Sunset</h1>
 		<h2 class="mx-auto text-lg uppercase text-center mb-3">Table basse</h2>
@@ -28,10 +28,10 @@
 		</div>
 		<img class="mt-20" src="sunset.webp" alt="sunset" />
 		<img class="" src="sunsetface.webp" alt="sunset-face" />
-		<img class="mb-40 mt-48" style="" src="sunsetcote.webp" alt="sunset-cote" />
-		<img class="mt-40 mb-12 situation" src="sunsethaut.webp" alt="sunset-haut" />
-		<img class="mt-40 mb-12 situation" src="sunsetdetail.webp" alt="sunset-detail" />
-		<img class="mt-40 mb-12 situation" src="sunset_situation.webp" alt="sunset-situation" />
+		<img class=" mt-20" style="" src="sunsetcote.webp" alt="sunset-cote" />
+		<img class="mt-20 situation" src="sunsethaut.webp" alt="sunset-haut" />
+		<img class="mt-20 situation" src="sunsetdetail.webp" alt="sunset-detail" />
+		<img class="mt-20 mb-12 situation" src="sunset_situation.webp" alt="sunset-situation" />
 		<div class="flex w-full justify-center items-center mb-3">
 			<a class="" href="/tic">
 				<img height="40" width="40" src="arrow-left.webp" alt="arrow left" />

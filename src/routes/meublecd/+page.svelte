@@ -22,12 +22,12 @@
 				dernier sous différents points de vue.
 			</p>
 		</div>
-		<img class="mt-32" src="CD1.webp" alt="cd" />
-		<img class="my-32" src="CD2.webp" alt="cd2" />
+		<img class="mt-20" src="CD1.webp" alt="cd" />
+		<img class="my-20" src="CD2.webp" alt="cd2" />
 		<img class="" src="CD3.webp" alt="cd3" />
-		<img class="mt-32" style="" src="CD4.webp" alt="cd4" />
-		<img class="mt-32" src="CD5.webp" alt="cd5" />
-		<img class="mt-32 mb-12" src="CD6.webp" alt="cd6" />
+		<img class="mt-20" style="" src="CD4.webp" alt="cd4" />
+		<img class="mt-20" src="CD5.webp" alt="cd5" />
+		<img class="mt-20 mb-12" src="CD6.webp" alt="cd6" />
 		<div class="flex w-full justify-center items-center mb-3">
 			<a class="" href="/table-verte">
 				<img height="40" width="40" src="arrow-left.webp" alt="home" />

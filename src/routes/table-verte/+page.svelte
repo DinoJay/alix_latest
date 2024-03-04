@@ -15,8 +15,8 @@
 		<h2 class=" text-lg uppercase text-center mb-3">TABLE BASSE</h2>
 		<div>Hêtre - Alupanel vert - Multiplex bouleau - Verre armé 40,2 x 89 x 44,7</div>
 		<div>160 x 120 x 37,5</div>
-		<img class="mb-40 mt-20" src="Tableverte-1.webp" alt="table verte 1" />
-		<img class="mb-60" src="tableverte-2.webp" alt="table verte 2" />
+		<img class="mb-20 mt-20" src="Tableverte-1.webp" alt="table verte 1" />
+		<img class="mb-20" src="tableverte-2.webp" alt="table verte 2" />
 		<img class="mb-20" src="Tableverte-3.webp" alt="table verte 3" />
 		<img class="mb-20" src="Tableverte-4.webp" alt="table verte 4" />
 		<img class="mb-20" src="Tableverte-5.webp" alt="table verte 5" />
