@@ -60,9 +60,9 @@
 >
 	{#each imgs as d (d.href)}
 		<div animate:flip={{ duration: 200 }} class="img-cont mb-3 relative" style="background:{d.bg}">
-			<a class="w-full overflow-hidden" href={d.href}>
-				<img class={d.cls ? d.cls : ''} class:md:max-w-prose={!grid} src={d.src} alt={d.href} />
-			</a>
+			<!-- <a class="w-full overflow-hidden" href={d.href}> -->
+			<img class="w-full h-full" class:md:max-w-prose={!grid} src={d.src} alt={d.href} />
+			<!-- </a> -->
 			<div class="absolute bottom-0 left-0">
 				<div class="ml-2 mb-3 text-xl uppercase bg-black text-white px-2">{d.title}</div>
 			</div>
