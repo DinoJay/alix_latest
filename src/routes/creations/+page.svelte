@@ -60,7 +60,7 @@
 >
 	{#each imgs as d (d.href)}
 		<div animate:flip={{ duration: 200 }} class="img-cont mb-3 relative" style="background:{d.bg}">
-			<a href={d.href}>
+			<a class="w-full overflow-hidden" href={d.href}>
 				<img class={d.cls ? d.cls : ''} class:md:max-w-prose={!grid} src={d.src} alt={d.href} />
 			</a>
 			<div class="absolute bottom-0 left-0">
