@@ -29,8 +29,8 @@
 		<img class="mt-32" src="CD5.webp" alt="cd5" />
 		<img class="mt-32 mb-12" src="CD6.webp" alt="cd6" />
 		<div class="flex w-full justify-center items-center mb-3">
-			<a class="/creations" href="/creations">
-				<img height="40" width="40" src="home.webp" alt="home" />
+			<a class="" href="/table-verte">
+				<img height="40" width="40" src="arrow-left.webp" alt="home" />
 			</a>
 			<a class="ml-auto" href="/tic">
 				<img height="40" width="40" src="arrow-right.webp" alt="arrow right" />
