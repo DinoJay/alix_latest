@@ -51,5 +51,10 @@
 				</a>
 			</div>
 		</div>
+		<div class="md:flex">
+			<a class="md:max-width-half" href="/mini_series/mini">
+				<img src="minicouv.webp" alt="rouget" />
+			</a>
+		</div>
 	</div>
 </div>

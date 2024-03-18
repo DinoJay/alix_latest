@@ -34,6 +34,7 @@
 		'/mini_series/rouget': 2,
 		'/mini_series/pion': 3,
 		'/mini_series/villes': 1,
+		'/mini_series/mini': 2,
 		'/meublecd': 2,
 		'/table-verte': 3
 	};
