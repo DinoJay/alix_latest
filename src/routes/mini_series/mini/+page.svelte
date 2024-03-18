@@ -46,7 +46,7 @@
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12 gap-4 flex-wrap">
 		{#each imgs as s, i}
-			<LightBox srcs={imgs} start={i} className="h-40  w-40 " />
+			<LightBox srcs={imgs} start={i} className="h-40  w-40 object-cover " />
 		{/each}
 	</div>
 </div>
