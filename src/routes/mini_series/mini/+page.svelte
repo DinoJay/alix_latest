@@ -33,7 +33,7 @@
 				</p>
 				<p class="mb-8">
 					68€/ Tabouret - Disponibilités ci-dessous (ou sur commande). Possibilités d'envoi (Frais
-					non inclus) Poisson 1: 1 disponibles
+					non inclus)
 				</p>
 				<div class="text-green-600">
 					<p>Poisson 1: 1 disponibles</p>

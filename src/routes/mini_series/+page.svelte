@@ -13,8 +13,11 @@
 		<h1 class="text-3xl mb-3">Productions multiples</h1>
 
 		<p class="text-justify">
-			Ici sont proposés des meubles ou objets produits avec l’intervention d’une machine numérique à
-			un moment du processus de réalisation.
+			Ici sont proposés des meubles ou objets où une machine numérique (CNC , Laser ) intervient
+			dans une partie du processus de fabrication. Mais tout le reste est fait à la main! Ils sont
+			donc tous légèrement différents et peuvent présenter de très légères imperfections. Dans la
+			section "le coin", vous trouverez ceux qui ont des défauts de fabrication mais qui sont à prix
+			réduit!
 		</p>
 	</div>
 
