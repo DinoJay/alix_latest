@@ -34,7 +34,12 @@
 				</div>
 			</div>
 		</div>
-		<img class="mini-series-table-mobile md:ml-24 mt-12" alt="" src="/sardinetaille.webp" />
+		<img
+			style:height="270px"
+			class="mini-series-table-mobile md:ml-24 w-96 mt-12 object-contain"
+			alt=""
+			src="/sardinetaille.webp"
+		/>
 	</div>
 	<div class="flex flex-col md:flex-row md:mt-12 gap-4 flex-wrap justify-center">
 		{#each imgs as s, i}

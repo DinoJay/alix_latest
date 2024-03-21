@@ -22,11 +22,8 @@
 	</div>
 
 	<div class="sm:grid sm:grid-cols-2">
-		<a class="" href="/mini_series/mini">
+		<a class="md:p-12" href="/mini_series/mini">
 			<img src="minicouv.webp" alt="rouget" />
-		</a>
-		<a class="flex" href="/mini_series/villes">
-			<img class="m-auto" src="ville.webp" alt="villes" />
 		</a>
 		<a href="/mini_series/pion" class="">
 			<img src="pionbleu.jpeg" alt="pionbleu" />
@@ -39,6 +36,9 @@
 		</a>
 		<a class="" href="/mini_series/table">
 			<img src="table.webp" alt="rouget" />
+		</a>
+		<a class="flex" href="/mini_series/villes">
+			<img class="m-auto" src="ville.webp" alt="villes" />
 		</a>
 		<a class="" href="/mini_series/plateau">
 			<img src="plateau.png" alt="plateau" />
