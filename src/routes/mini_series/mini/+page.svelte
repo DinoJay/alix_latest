@@ -12,7 +12,6 @@
 		['/mini2.webp', 'mini 2'],
 		['/mini3.webp', 'mini 3'],
 		['/mini4.webp', 'mini 4'],
-		['/mini4.webp', 'mini 4'],
 		['/mini5.webp', 'mini 5'],
 		['/mini6.webp', 'mini 6'],
 		['/mini7.webp', 'mini 7'],
@@ -42,9 +41,9 @@
 				</div>
 			</div>
 		</div>
-		<img class="mini-series-table-mobile md:ml-24 mt-12" alt="" src="/minitaille.webp" />
+		<img class="mini-series-table-mobile m-auto md:ml-24 mt-12" alt="" src="/minitaille.webp" />
 	</div>
-	<div class="flex flex-col md:flex-row md:mt-12 gap-4 flex-wrap">
+	<div class="flex flex-row md:mt-12 gap-4 flex-wrap">
 		{#each imgs as s, i}
 			<LightBox srcs={imgs} start={i} className="h-40  w-40 object-cover " />
 		{/each}
