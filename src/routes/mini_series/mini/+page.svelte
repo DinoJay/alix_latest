@@ -43,7 +43,7 @@
 		</div>
 		<img
 			class="mini-series-table-mobile m-auto md:ml-24 mt-12 w-96 object-contain"
-			style:height="320px"
+			style:height="370px"
 			alt=""
 			src="/minitaille.webp"
 		/>
