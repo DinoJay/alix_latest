@@ -25,11 +25,11 @@
 		<a class="md:p-12" href="/mini_series/mini">
 			<img src="minicouv.webp" alt="rouget" />
 		</a>
-		<a href="/mini_series/pion" class="">
-			<img src="pionbleu.jpeg" alt="pionbleu" />
-		</a>
 		<a href="/mini_series/sardine" class="">
 			<img class="" src="sardinecouv.webp" alt="table" />
+		</a>
+		<a href="/mini_series/pion" class="">
+			<img src="pionbleu.jpeg" alt="pionbleu" />
 		</a>
 		<a class="" href="/mini_series/rouget">
 			<img src="rougetcouv.webp" alt="rougetcouv" />

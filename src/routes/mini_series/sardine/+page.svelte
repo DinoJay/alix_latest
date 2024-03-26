@@ -35,7 +35,7 @@
 			</div>
 		</div>
 		<img
-			style:height="270px"
+			style:height="370px"
 			class="mini-series-table-mobile md:ml-24 w-96 mt-12 object-contain"
 			alt=""
 			src="/sardinetaille.webp"
