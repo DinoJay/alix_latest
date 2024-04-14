@@ -36,7 +36,8 @@
 		'/mini_series/villes': 1,
 		'/mini_series/mini': 2,
 		'/meublecd': 2,
-		'/table-verte': 3
+		'/table-verte': 3,
+		'/coin': 1
 	};
 
 	console.log('cleanedPath', key);

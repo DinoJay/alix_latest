@@ -45,3 +45,9 @@
 		</a>
 	</div>
 </div>
+
+<style>
+	img {
+		@apply p-12;
+	}
+</style>

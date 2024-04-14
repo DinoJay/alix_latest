@@ -43,7 +43,7 @@
 			</div>
 		</div>
 		<div class="md:mt-12">
-			<a class="font-bold" href="mailto: alix.nicolas1@gmail.com">alix.nicolas1@gmail.com</a>
+			<a class="font-bold" href="mailto: atelierpopi@gmail.com">atelierpopi@gmail.com</a>
 		</div>
 	</div>
 	<div style="width:300px" class="flex flex-col mt-12 mx-auto xl:mt-0">
