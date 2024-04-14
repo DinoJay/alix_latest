@@ -26,7 +26,7 @@
 </script>
 
 <div class=" p-3 md:p-12 items-center md:items-start flex flex-col">
-	<div class="md:flex md:px-24">
+	<div class="md:flex">
 		<div class="w-80">
 			<h1 class="text-3xl mb-1">{title}</h1>
 			<h2 class="mb-2">{subTitle}</h2>
@@ -50,7 +50,7 @@
 			src={drawingImg}
 		/>
 	</div>
-	<div class="grid m-auto grid-cols-1 lg:grid-cols-4 md:mt-12 gap-4 justify-items-center">
+	<div class="grid grid-cols-1 lg:grid-cols-7 md:mt-12 gap-4 justify-items-center">
 		{#each imgs as s, i}
 			<LightBox srcs={imgs} start={i} className="h-80  w-full lg:w-40 lg:h-40 object-cover " />
 		{/each}
