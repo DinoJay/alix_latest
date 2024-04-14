@@ -17,7 +17,6 @@
 		<div class="text-center">
 			<p>Hêtre - Plexi fluo - Alupanel - Multiplex bouleau - Verre</p>
 			<p>40 x 46,5 x 36,5</p>
-			<p class="text-gray-500">260€</p>
 			<p class="mt-6 text-gray-600">
 				Avec pour point de départ trois morceaux de verres identiques, j’ai créé une petite table et
 				son double qui vont ensemble ou séparément. Rehausseé par des touches de couleurs avec
@@ -29,7 +28,7 @@
 		<img class="mb-40 mt-48" style="" src="baby-face.webp" alt="baby-face" />
 		<img class="" src="baby-haut.webp" alt="baby-haut" />
 		<img class="mt-40 mb-12 situation" src="baby-situation.webp" alt="baby-situation" />
-		<div class="flex w-full justify-center items-center mb-3 ">
+		<div class="flex w-full justify-center items-center mb-3">
 			<a class="/table-1" href="/table-2">
 				<img height="40" width="40" src="arrow-left.webp" alt="arrow left" />
 			</a>

@@ -2,7 +2,7 @@
 	import { seo } from '$lib/store.js';
 
 	$seo = {
-		title: 'Table Sunset',
+		title: 'Mont Blanc',
 		description: 'Popi Creations Meuble unique Design Furniture Table Moderne Hetre Plexi Couleur'
 	};
 </script>

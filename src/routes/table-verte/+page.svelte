@@ -4,7 +4,7 @@
 	import { seo } from '$lib/store.js';
 
 	$seo = {
-		title: 'Buffet',
+		title: 'Table Verte',
 		description: 'modulable Buffet Popi Creations Meuble unique Design Furniture Multiplex'
 	};
 </script>
@@ -13,8 +13,8 @@
 	<div class="m-auto max-w-prose flex flex-col items-center p-3">
 		<h1 class=" text-3xl uppercase text-center mb-3">TABLE VERTE</h1>
 		<h2 class=" text-lg uppercase text-center mb-3">TABLE BASSE</h2>
-		<div>Hêtre - Alupanel vert - Multiplex bouleau - Verre armé 40,2 x 89 x 44,7</div>
-		<div>160 x 120 x 37,5</div>
+		<div>Hêtre - Alupanel vert - Multiplex bouleau - Verre armé</div>
+		<div>40,2 x 89 x 44,7</div>
 		<img class="mb-20 mt-20" src="Tableverte-1.webp" alt="table verte 1" />
 		<img class="mb-20" src="tableverte-2.webp" alt="table verte 2" />
 		<img class="mb-20" src="Tableverte-3.webp" alt="table verte 3" />

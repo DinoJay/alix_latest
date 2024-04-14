@@ -9,6 +9,7 @@
 	export let price = '';
 	export let priceCls = '';
 	export let availability = '';
+	export let imgHeight = '370px';
 
 	export let drawingImg;
 
@@ -38,14 +39,20 @@
 				<p class="mb-8 font-bold {priceCls}">
 					{price}
 				</p>
-				<div class="text-green-600">
-					{availability}
+				<div class="text-green-600 text-left">
+					{#if availability.split(',').length > 1}
+						{#each availability.split(',') as d}
+							<p>{d}</p>
+						{/each}
+					{:else}
+						<p>{availability}</p>
+					{/if}
 				</div>
 			</div>
 		</div>
 		<img
-			class="mini-series-table-mobile m-auto w-96 object-contain"
-			style:height="370px"
+			class="mini-series-table-mobile m-auto w-96 object-contain ml-12"
+			style:height={imgHeight}
 			alt=""
 			src={drawingImg}
 		/>

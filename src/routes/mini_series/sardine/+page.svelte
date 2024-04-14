@@ -22,6 +22,8 @@
 	descr="Gravure des formes à la CNC, résine coulée en creux"
 	materials="Multiplex chêne - epoxy - pieds en acier laqué jaune - Huile/vernis éco-responsable"
 	price="105€/ Table, Tabouret - Disponibilités ci-dessous (ou sur commande). Possibilités d'envoi (Frais non inclus)"
+	availability="1 disponible"
+	imgHeight="280px"
 	{imgs}
 	drawingImg="/sardine-mesure.webp"
 />

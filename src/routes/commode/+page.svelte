@@ -4,13 +4,13 @@
 	import { seo } from '$lib/store.js';
 
 	$seo = {
-		title: 'Accueil',
+		title: 'Everest',
 		description:
 			'Popi Creations Meuble unique Design Furniture Marqueterie Multiplex Laiton Chaine Oak Modulable Montagne'
 	};
 </script>
 
-<div class="flex flex-col ">
+<div class="flex flex-col">
 	<div class="m-auto max-w-prose flex flex-col items-center p-3">
 		<h1 class=" text-3xl uppercase text-center mb-3">EVEREST</h1>
 		<h2 class=" text-lg uppercase text-center mb-3">Commode</h2>

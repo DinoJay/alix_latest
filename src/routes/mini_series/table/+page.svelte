@@ -21,7 +21,7 @@
 	subTitle="Table basse"
 	descr="Gravure des formes à la CNC, marqueterie de laiton"
 	materials="Multiplex bouleau - hêtre - epoxy - laiton"
-	price="450€/table - dispo: 2"
+	price="450€ / Table"
 	availability="2 Disponibles"
 	{imgs}
 	drawingImg="/table_plan.webp"
