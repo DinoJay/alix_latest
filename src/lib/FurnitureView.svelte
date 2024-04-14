@@ -51,7 +51,7 @@
 			</div>
 		</div>
 		<img
-			class="mini-series-table-mobile m-auto w-96 object-contain ml-12"
+			class="mini-series-table-mobile m-auto w-96 object-contain lg:ml-12"
 			style:height={imgHeight}
 			alt=""
 			src={drawingImg}

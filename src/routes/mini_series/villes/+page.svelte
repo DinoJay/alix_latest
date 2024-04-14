@@ -23,7 +23,8 @@
 	subTitle="Table Basse"
 	descr="Gravure des formes à la CNC, résine coulée à plat"
 	materials="Multiplex - epoxy - pieds en acier laqué jaune ou rouge"
-	price="570€ - Disponible sur commande."
+	price="570€ / Table"
+	availability="sur commande"
 	{imgs}
 	drawingImg="/ville-taille.webp"
 />

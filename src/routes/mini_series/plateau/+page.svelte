@@ -23,7 +23,8 @@
 	subTitle="Plateau"
 	descr="Gravure des formes à la CNC, marqueterie de laiton."
 	materials="Multiplex bouleau - epoxy - laiton"
-	price="50€/plateau - SOLD OUT"
+	price="50€ / plateau"
 	{imgs}
+	availability="SOLD OUT"
 	drawingImg="/plateau_plan.webp"
 />
