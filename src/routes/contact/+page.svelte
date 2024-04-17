@@ -14,7 +14,7 @@
 			<div class="text-justify max-w-prose">
 				<p class="mb-3">
 					Après un master en Dessin (La Cambre) et une formation en Ébénisterie et Menuiserie (Efp)
-					à Bruxelles, j'ai commencé en novembre 2021 mes propres <span class="font-bold"
+					à Bruxelles, j'ai commencé mes propres <span class="font-bold"
 						>créations de meubles graphiques</span
 					>. Ils sont, chacun, uniques et faits à la main.
 				</p>
@@ -25,9 +25,9 @@
 					de la conception du nouveau meuble.
 				</p>
 				<p class="mb-3">
-					En février 2022 je me suis formée à la CNC et ai commencé une nouvelle catégorie de
-					meubles et objets en bois. Ils utilisent cette technique et sont produits en mini série.
-					Des formes plus sobres mais une reconnexion avec l’univers du dessin.
+					Je me suis formée à la CNC et ai commencé une nouvelle catégorie de meubles et objets en
+					bois. Ils utilisent cette technique et sont produits en mini série. Des formes plus sobres
+					mais une reconnexion avec l’univers du dessin.
 				</p>
 				<p class="mb-3">
 					<span>

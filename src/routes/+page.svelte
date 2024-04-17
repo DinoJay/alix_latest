@@ -7,9 +7,9 @@
 	};
 </script>
 
-<div class="lg:grid-cols-2 lg:grid lg:grid-rows-2 gap-4 md:p-0 p-3 overflow-auto">
+<div class="flex gap-4 md:p-0 p-3 overflow-auto">
 	<a
-		class=" flex flex-col bg-cover"
+		class=" flex flex-col bg-cover flex-1 lg:home-el-width"
 		href="/creations"
 		style:background-image={'url("creations.webp")'}
 	>
@@ -18,7 +18,7 @@
 		</div>
 	</a>
 	<a
-		class=" flex flex-col bg-cover"
+		class=" flex flex-col bg-cover lg:home-el-width flex-1"
 		href="/mini_series"
 		style:background-image={'url("decorsardine.webp")'}
 	>
@@ -27,7 +27,7 @@
 			<span class="hidden sm:block">Productions Multiples</span>
 		</div>
 	</a>
-	<a class=" flex flex-col coin bg-fill" href="/coin">
+	<a class=" flex flex-col coin bg-fill lg:home-el-width flex-1" href="/coin">
 		<div class=" collab-text m-auto font-sans uppercase text-center text-white">
 			<span class="sm:block">Le Coin</span>
 		</div>

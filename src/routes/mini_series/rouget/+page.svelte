@@ -28,7 +28,7 @@
 	subTitle="Tabouret ou table d’appoint"
 	descr="Gravure des formes à la CNC, résine coulée en creux"
 	materials="Multiplex - epoxy - pieds en acier laqué bleu"
-	price="105€ / Table - Disponibilités ci-dessous (ou sur commande). Possibilités d'envoi (Frais non inclus)"
+	price="140€ / Table - Disponibilités ci-dessous (ou sur commande). Possibilités d'envoi (Frais non inclus)"
 	availability="Sur Commande"
 	{imgs}
 	drawingImg="/mesure.webp"

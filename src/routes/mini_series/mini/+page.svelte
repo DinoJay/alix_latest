@@ -26,7 +26,7 @@
 	subTitle="Tabouret pour enfant"
 	descr="Gravure des formes à la CNC, résine coulée à plat."
 	materials="Multiplex chêne- epoxy - pieds en hêtre massif- Huile-vernis éco-responsable"
-	price="68€/ Tabouret - Disponibilités ci-dessous (ou sur commande). Possibilités d'envoi (Frais non inclus)"
+	price="75€/ Tabouret - Disponibilités ci-dessous (ou sur commande). Possibilités d'envoi (Frais non inclus)"
 	availability="
 					Poisson 1: 1 disponibles,
 					Poisson 2: 3 disponibles,
