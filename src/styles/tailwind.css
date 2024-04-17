@@ -21,8 +21,8 @@
 @layer utilities {
   @variants responsive {
 
-    .home-el-width {
-      /* width: 500px; */
+    .home-el-height {
+      height: 500px;
     }
 
     .min-w-prose {
